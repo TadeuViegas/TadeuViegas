@@ -1,4 +1,5 @@
 ### Hello! I'm Tadeu Viégas 👋
+My website: https://tadeuviegas.github.io/portifolio/index.html
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadeu-costa-vi%C3%A9gas-8499a41b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tadeucosta/)
